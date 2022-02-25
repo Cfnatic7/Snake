@@ -2,7 +2,7 @@
 This is my final homework project for my objective programming classes.
 
 ## External libraries used:
-- lncurses
+- ncurses
 
 ## Setup
 First you have to install ncurses. After that, type ```make``` in bash in your repo directory. Next, after the program compiles itself you can type ```./winsys``` and play the game!
